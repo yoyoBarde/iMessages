@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "217995213183",
+    "firebase_url": "https://imessage-dae5a.firebaseio.com",
+    "project_id": "imessage-dae5a",
+    "storage_bucket": "imessage-dae5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217995213183:android:8475f78b20dcfaec",
+        "android_client_info": {
+          "package_name": "com.example.kent.imessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217995213183-mf5akklav6fetu0rfc2thd16kehmvedo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kent.imessage",
+            "certificate_hash": "38df440c12d136041614263691eead1819ccf2d1"
+          }
+        },
+        {
+          "client_id": "217995213183-k6om10od6eh7m072lubhjimjj0ntscsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7qDskbFvLzMddHonX_wI9rU7Uh2rpH0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217995213183-k6om10od6eh7m072lubhjimjj0ntscsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
