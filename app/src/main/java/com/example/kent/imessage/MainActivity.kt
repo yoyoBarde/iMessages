@@ -49,12 +49,18 @@ class MainActivity : AppCompatActivity() {
         }
 
 
+btn_signin.setOnClickListener {
 
+    val intent = Intent(this,bottom_navigation::class.java)
+    startActivity(intent)
+}
         googlesignin.setOnClickListener{
             when (it.id){
                 R.id.googlesignin -> signIn()
             }
         }
+
+
     }
 
     private fun signIn() {
